@@ -13,7 +13,7 @@ const Hero = () => {
       <div className="cerousel"></div>
 
       <div className="circle absolute top-150 left-0 blur-[100px] h-[40vh] w-[100vw]  bg-black "></div>
-      <div className="circle absolute top-150 left-0 blur-[100px] h-[40vh] w-[100vw]  bg-black "></div>
+      <div className="circle absolute top-[-180px] left-0 blur-[100px] h-[40vh] w-[100vw]  bg-black "></div>
     </div>
   );
 };
