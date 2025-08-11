@@ -33,7 +33,10 @@ function App() {
             />
           </div>
           {/* Item 3 */}
-          <div className="hidden duration-700 ease-in-out" data-carousel-item>
+          <div
+            className="hidden duration-700 ease-in-out bg-red-300"
+            data-carousel-item
+          >
             <img
               src="https://picsum.photos/id/1018/1200/500"
               className="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
